@@ -36,7 +36,7 @@ Ensure you have the following installed:
 
 
 
-#Example
+# Example
 ```bash
 curl -X POST http://localhost:5000/api/addEvent \
   -H "Content-Type: application/json" \
